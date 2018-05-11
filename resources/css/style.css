@@ -23,7 +23,7 @@ h2 {
   font-weight: normal;
 }
 
-.linked {
+.linked a {
   color: aquamarine;
   font-size: 16px;
 }
